@@ -1,6 +1,6 @@
 个人博客
 
->原博客地址 [github](https://github.com/flycsqaq/My-Summry)或[自建网站](feirain.com)
+>原博客地址 [github](https://github.com/flycsqaq/My-Summry)或[自建网站](http://feirain.com)
 
 
 ## js
