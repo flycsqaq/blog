@@ -5,9 +5,8 @@
 
 ## js
 1. [数组/对象与映射](./js/array_object_map.md) [√]
-2. 内存管理/作用域与闭包 [x]
-3. 函数 [x]
-4. this与原型链 [x]
+2. [内存管理/作用域与闭包](./js/closure.md) [√]
+3. [函数/this与原型链](./js/function_this_prototype.md) [√]
 
 ## css
 1. flex布局与盒模型 [x]
