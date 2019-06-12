@@ -20,7 +20,7 @@
 ## 框架(Vue/React/Angular)
 1. 生命周期与挂载组件 [x]
 2. 数据管理(Redux与RxJS) [x]
-3. MVVM [x]
+3. [MVVM](./MVVM/MVVM.md) [√]
 
 ## 浏览器
 1. 输入url到页面展示 [x]
