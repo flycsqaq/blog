@@ -20,11 +20,11 @@
 ## 框架(Vue/React/Angular)
 1. 生命周期与挂载组件 [x]
 2. 数据管理(Redux与RxJS) [x]
-3. [MVVM](./MVVM/MVVM.md) [√]
+3. [MVVM未完](./MVVM/MVVM.md) [√]
 
 ## 浏览器
 1. 输入url到页面展示 [x]
 
 ## 项目思考
-1. NAS [x]
-2. 笔试系统 [x]
+1. [NAS](./project/NAS.md) [√]
+2. [笔试系统](./project/code.md) [√]
