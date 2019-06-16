@@ -7,6 +7,7 @@
 1. [数组/对象与映射](./js/array_object_map.md) [√]
 2. [内存管理/作用域与闭包](./js/closure.md) [√]
 3. [函数/this与原型链](./js/function_this_prototype.md) [√]
+4. [手写一个Promise](./js/promise.md) [×]
 
 ## css
 1. flex布局与盒模型 [x]
